@@ -12,4 +12,4 @@ I received my Ph.D. and M.S.from the [Penn State Department of Energy and Minera
 
 * :earth_americas: [Research Group Website](https://viveks.bee.cornell.edu)
 * :email: vivek@psu.edu
-* :page_facing_up: [CV](https://viveks.me/assets/pdf/Srikrishnan-CV.pdf')
+* :page_facing_up: [CV](https://viveks.me/assets/pdf/Srikrishnan-CV.pdf)
